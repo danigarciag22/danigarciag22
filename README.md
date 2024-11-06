@@ -1,8 +1,14 @@
 <!-- Title with greeting and name -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daniel García</h1>
+<h1 align="center">Hi , I'm <a href="https://github.com/DanielGarcia2205">Daniel García</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+<!-- Typing animation effect -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=C13AD5&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Portfolio!;I'm+a+Software+Developer;I+love+coding+and+problem-solving;Feel+free+to+explore+my+projects!" />
+  </a>
+</p>
 
 <!-- Attractive Banner -->
-
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" alt="Banner Image"/>
 </p>
@@ -14,23 +20,23 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/DanielGarcíaGonzález" target="_blank">
-    <img align="center" src="img/linkedin.svg" alt="LinkedIn Profile" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <!-- Discord -->
   <a href="https://Discordapp.com/users/368242591894077444" target="_blank">
-    <img align="center" src="img/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Discord-000?logo=Discord&logoColor=5865F2" alt="Discord">
   </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/573026141771" target="_blank">
-    <img align="center" src="img/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-WhatsApp-000?logo=WhatsApp&logoColor=25D366" alt="WhatsApp">
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/dani_garciag22/" target="_blank">
-    <img align="center" src="img/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=E4405F" alt="Instagram">
   </a>
   <!-- Gmail -->
   <a href="mailto:danigarcia2220058@gmail.com">
-    <img align="center" src="img/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Gmail-000?logo=Gmail&logoColor=EA4335" alt="Gmail">
   </a>
 </p>
 <hr>
@@ -46,10 +52,8 @@
     The fast-paced nature of the <b>tech industry</b> drives me to stay updated, exploring new technologies and 
     <b>development methodologies</b> that enhance my work.
   </em>
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+  <br> <br>
   <b><i>Always Learning & Evolving!</i></b> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -58,11 +62,11 @@
 </p>
 
 <!-- Right-aligned Animated GIF -->
-<img align="right" width="300px" alt="Skills" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width="300px" alt="Skills" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 
 <!-- Soft Skills Section -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_My Soft Skills..._**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;**_My Soft Skills..._**
 
 ✔ Strong **teamwork** abilities and a collaborative mindset 🤝<br>
 ✔ Excellent **communication skills**, both written and verbal 🗣️<br>
@@ -71,17 +75,13 @@
 ✔ Effective **time management**, ensuring timely project deliveries ⏰<br>
 ✔ **Empathetic** and keen on understanding user perspectives 🌟<br>
 ✔ Avid **learner** who enjoys exploring new ideas and methodologies 🌐<br>
-<br><br><br><br>
+<br><br>
 
 <!-- Languages & Tools Section -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Use..._**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;**_Languages & Tools I Use..._**
 
----
-
-## 🛠️ My Skills
-
-### Programming Languages:
+### _Programming Languages:_
 
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -90,47 +90,67 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
-### Frontend Development:
+### _Frontend Development:_
 
 &emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
 
-### Backend Development:
 
-&emsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-
-### Databases:
+### _Backend Development:_
 
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
+![JWT](https://img.shields.io/badge/-JWT-000?&logo=json-web-tokens)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 
-### DevOps & Cloud:
+### _Databases:_
 
 &emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+### _DevOps & Cloud:_
+
+&emsp;
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
-### Tools & Misc:
+
+### _Tools & Misc:_
 
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+
+### _Education_
+
+&emsp;
+![Platzi](https://img.shields.io/badge/-Platzi-000?&logo=Platzi)
+![Coursera](https://img.shields.io/badge/-Coursera-000?&logo=Coursera)
+
 
 ---
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielGarcia2205&theme=shadow-purple&hide_border=true&border_radius=&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
