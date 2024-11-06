@@ -65,7 +65,6 @@
 <img align="right" width="300px" alt="Skills" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 
 <!-- Soft Skills Section -->
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;**_My Soft Skills..._**
 
 ✔ Strong **teamwork** abilities and a collaborative mindset 🤝<br>
@@ -78,7 +77,6 @@
 <br><br>
 
 <!-- Languages & Tools Section -->
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;**_Languages & Tools I Use..._**
 
 ### _Programming Languages:_
@@ -101,7 +99,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
-
 
 ### _Backend Development:_
 
@@ -128,7 +125,6 @@
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-000?&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-
 ### _Tools & Misc:_
 
 &emsp;
@@ -147,10 +143,11 @@
 ![Platzi](https://img.shields.io/badge/-Platzi-000?&logo=Platzi)
 ![Coursera](https://img.shields.io/badge/-Coursera-000?&logo=Coursera)
 
-
----
-
-
+<!-- GitHub Streaks -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielGarcia2205&theme=shadow-purple&hide_border=true&border_radius=&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielGarcia2205&theme=github-dark-dimmed&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGarcia2205&show_icons=true&locale=en&theme=github_dark_dimmed&rank_icon=github)
+
+<!-- Snake -->
+
