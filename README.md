@@ -36,8 +36,7 @@
   </a>
   <!-- Gmail -->
   <a href="mailto:danigarcia2220058@gmail.com">
-    <
-img src="https://img.shields.io/badge/-Gmail-000?logo=Gmail&logoColor=EA4335" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-000?logo=Gmail&logoColor=EA4335" alt="Gmail">
   </a>
 </p>
 <hr>
