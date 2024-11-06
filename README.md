@@ -36,7 +36,8 @@
   </a>
   <!-- Gmail -->
   <a href="mailto:danigarcia2220058@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?logo=Gmail&logoColor=EA4335" alt="Gmail">
+    <
+img src="https://img.shields.io/badge/-Gmail-000?logo=Gmail&logoColor=EA4335" alt="Gmail">
   </a>
 </p>
 <hr>
@@ -146,8 +147,16 @@
 <!-- GitHub Streaks -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielGarcia2205&theme=github-dark-dimmed&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGarcia2205&show_icons=true&locale=en&theme=github_dark_dimmed&rank_icon=github)
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=DanielGarcia2205&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=DanielGarcia2205&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGarcia2205&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <!-- Snake -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My Contributions..._**
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanielGarcia2205/DanielGarcia2205/output/github-contribution-grid-snake.svg" />
+
 
