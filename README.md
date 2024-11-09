@@ -19,7 +19,7 @@
 <!-- Social Media Links -->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/DanielGarcíaGonzález" target="_blank">
+  <a href="https://www.linkedin.com/in/danigarciag22" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <!-- Discord -->
@@ -152,10 +152,5 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGarcia2205&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<!-- Snake -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_My Contributions..._**
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanielGarcia2205/DanielGarcia2205/output/github-contribution-grid-snake.svg" />
 
 
