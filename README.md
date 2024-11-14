@@ -46,7 +46,8 @@
   <em>
     I am <b>Daniel García</b>, a <b>Systems Engineering student</b> at 
     <a href="https://www.itm.edu.co/" target="_blank"><b>ITM</b></a>, with a solid technical foundation from 
-    <a href="https://www.cesde.edu.co/" target="_blank"><b>CESDE</b></a>. <br>
+    <a href="https://www.cesde.edu.co/" target="_blank">
+<b>CESDE</b></a>. <br>
     My journey has equipped me with the skills to tackle challenges in <b>software development</b>, allowing me to be 
     proactive and team-oriented, with an open mind for <b>innovative ideas</b> and new approaches. <br><br>
     The fast-paced nature of the <b>tech industry</b> drives me to stay updated, exploring new technologies and 
@@ -153,4 +154,5 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigarciag22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
+## _GitHub Snake_
+![GitHub Snake](https://github.com/danigarciag22/danigarciag22/blob/output/github-contribution-grid-snake.svg)
