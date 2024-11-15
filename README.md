@@ -99,7 +99,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
 
 ### _Backend Development:_
 
@@ -138,18 +137,23 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-### _Education_
+### _Education:_
 
 &emsp;
 ![Platzi](https://img.shields.io/badge/-Platzi-000?&logo=Platzi)
 ![Coursera](https://img.shields.io/badge/-Coursera-000?&logo=Coursera)
 
 <!-- GitHub Streaks -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=danigarciag22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=danigarciag22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigarciag22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigarciag22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&layout_weight=0.5"/>
+</div> -->
+
+### _Contributions:_
+<!-- GitHub Snake Animation -->
+![GitHub Snake Animation](https://github.com/danigarciag22/danigarciag22/blob/output/github-contribution-grid-snake.svg)
+
