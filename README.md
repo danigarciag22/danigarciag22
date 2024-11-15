@@ -144,15 +144,6 @@
 ![Platzi](https://img.shields.io/badge/-Platzi-000?&logo=Platzi)
 ![Coursera](https://img.shields.io/badge/-Coursera-000?&logo=Coursera)
 
-### _GitHub Streaks:_ 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=danigarciag22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <!--<img width="390" src="https://github-readme-stats.vercel.app/api?username=danigarciag22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />-->
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigarciag22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&layout_weight=0.5"/>
-</div> 
 
 ### _Contributions:_
 <!-- GitHub Snake Animation -->
