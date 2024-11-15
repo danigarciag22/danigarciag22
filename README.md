@@ -46,7 +46,8 @@
   <em>
     I am <b>Daniel García</b>, a <b>Systems Engineering student</b> at 
     <a href="https://www.itm.edu.co/" target="_blank"><b>ITM</b></a>, with a solid technical foundation from 
-    <a href="https://www.cesde.edu.co/" target="_blank">
+    <a href="https://www.cesde.edu.co/" target="_blank"
+>
 <b>CESDE</b></a>. <br>
     My journey has equipped me with the skills to tackle challenges in <b>software development</b>, allowing me to be 
     proactive and team-oriented, with an open mind for <b>innovative ideas</b> and new approaches. <br><br>
@@ -143,15 +144,15 @@
 ![Platzi](https://img.shields.io/badge/-Platzi-000?&logo=Platzi)
 ![Coursera](https://img.shields.io/badge/-Coursera-000?&logo=Coursera)
 
-<!-- GitHub Streaks -->
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
+### _GitHub Streaks:_ 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_GitHub Stats..._**
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=danigarciag22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=danigarciag22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!--<img width="390" src="https://github-readme-stats.vercel.app/api?username=danigarciag22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />-->
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danigarciag22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&layout_weight=0.5"/>
-</div> -->
+</div> 
 
 ### _Contributions:_
 <!-- GitHub Snake Animation -->
