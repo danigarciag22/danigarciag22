@@ -18,31 +18,31 @@
 
 <!-- Social Media Links -->
 <p align="center">
-
+  
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/danigarciag22" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Black" height="28" style="margin:0 6px;">
+  <a href="https://www.linkedin.com/in/danigarciag22" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height="28" style="margin:0 6px;">
   </a>
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/368242591894077444" target="_blank" title="Discord">
-    <img src="https://img.shields.io/badge/Discord-000?style=flat&logo=discord&logoColor=white" alt="Discord Black" height="28" style="margin:0 6px;">
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/573026141771" target="_blank" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Black" height="28" style="margin:0 6px;">
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/dani_garciag22/" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram" alt="Instagram Black" height="28" style="margin:0 6px;">
+  <a href="https://discordapp.com/users/368242591894077444" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" height="28" style="margin:0 6px;">
   </a>
 
+  <!-- WhatsApp -->
+  <a href="https://wa.me/573026141771" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" style="margin:0 6px;">
+  </a>
+ 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/dani_garciag22/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="28" style="margin:0 6px;">
+  </a>
+  
   <!-- Gmail -->
-  <a href="mailto:danigarcia2220058@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-000?style=flat&logo=gmail&logoColor=white" alt="Gmail Black" height="28" style="margin:0 6px;">
-  </a>
+  <a href="mailto:danigarcia2220058@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="28" style="margin:0 6px;">
+  </a>
 </p>
 <hr>
 
@@ -86,77 +86,80 @@
 ### _🐍 Core Languages_
 
 &emsp;
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=gnu-bash&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ### _🧠 AI & Machine Learning Frameworks:_
 
 &emsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-000?style=flat&logo=keras&logoColor=white)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
 
 ### _✨ GenAI & LLMs:_
 
 &emsp;
-![Claude](https://img.shields.io/badge/Claude-000?style=flat&logo=claude&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+
+
 ### _📊 Data Science & Visualization:_
 
 &emsp;
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-000?style=flat&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-000?style=flat&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 
 ### _⚙️ MLOps & Backend:_
 
 &emsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-000?style=flat&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-000?style=flat&logo=microsoft-azure&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?logo=aws&logoColor=white)
 
 ### _🗄️ Databases:_
 
 &emsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat&logo=redis&logoColor=white)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
 ### _💻 IDEs & Tools:_
 
 &emsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=flat&logo=github-copilot&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-000?style=flat&logo=google-colab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-000?style=flat&logo=swagger&logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)
 
 ### _🎨 Productivity & Design:_
 
 &emsp;
-![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-000?style=flat&logo=jira&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
-### _Education:_
+### _📚 Education:_
 
 &emsp;
-![Platzi](https://img.shields.io/badge/Platzi-000?style=flat&logo=platzi&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-000?style=flat&logo=coursera&logoColor=white)
+[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=flat&logo=platzi&logoColor=white)](#)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 
 ---
 
